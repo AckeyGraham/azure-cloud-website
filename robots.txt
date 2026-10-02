@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ackeygraham.github.io/azure-cloud-website/sitemap.xml
