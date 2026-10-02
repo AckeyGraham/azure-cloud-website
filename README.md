@@ -26,4 +26,6 @@ The pages include page-specific titles and descriptions, canonical URLs, social-
 
 After publishing, add the site in [Google Search Console](https://search.google.com/search-console/about), verify ownership, and submit `https://ackeygraham.github.io/azure-cloud-website/sitemap.xml`. Discovery and ranking are not immediate or guaranteed. A custom domain is preferable for a lasting business presence; if one is added, update the canonical URLs, structured data, `robots.txt` and `sitemap.xml` to use it. Add accurate contact/location details and useful, original case studies as the business grows. Never publish a residential address unless you intend it to be public.
 
+The YouTube channel is linked from both page footers and listed as an official profile in the homepage organization metadata.
+
 Review Formspree’s current plan, privacy and data-retention terms before using it to collect personal information. The site loads its heading fonts from Google Fonts and uses system font fallbacks if they are unavailable.
